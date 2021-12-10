@@ -3,11 +3,13 @@ title: "Contact"
 description : "this is a meta description"
 
 office:
-  title : "Central Office"
+  title : "Relevant Technologies"
   mobile : "+27 72 532 3936"
   email : "bonganibee1@gmail.com"
   location : "51 Hunter Street Nelspruit, 1201 Mbombela"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
+  content : "Providing the best
+IT Solutions
+at your connivence"
 
 # opennig hour
 opennig_hour:
