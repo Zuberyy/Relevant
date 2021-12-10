@@ -22,4 +22,7 @@ button_link: "#"
 draft: false
 ---
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+- Input voltage: 100 -240V AC
+- Output: 19V 2.37A 45W
+- Connector Size: 3.0 x 1.1mm
+- 6 Months warranty
