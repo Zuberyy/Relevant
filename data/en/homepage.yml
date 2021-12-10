@@ -1,0 +1,138 @@
+############################# banner ############################
+banner:
+  enable : true
+  title : "We Are A Digital Agency,That Loves What We Do"
+  content : "Providing the best
+IT Solutions
+at your connivence"
+  image : "images/logo.png"
+  button:
+   enable : true
+   label : "Browse Our Products"
+   link : "products"
+
+############################# Feature ############################
+features:
+  enable : true
+  title : "Our Services"
+  image : "images/services1.png"
+
+  # feature at the left of the image
+  left_side:
+    # feature item loop
+  - title : "Hardware Repairs"
+    icon : "tf-ion-android-settings"
+    content : "LCD screen replacement.
+Hard Drive Upgrade and Replacement.
+Ram upgrade.
+Performance tunning.
+Water damaged laptops.
+Keybords & touchpads.
+Laptop batteries & charger sales.
+Wireless devices."
+    
+    # feature item loop
+  - title : "Software Solutions"
+    icon : "tf-ion-laptop"
+    content : "Antivirus & Virus removal.
+Operating system installation.
+Microsoft Office.
+WI-FI setups.
+Data Recovery.
+Learning Programs & apps.
+New desktop/laptop set up.
+"
+    
+  
+
+  # feature at the right of the image
+  right_side:
+    # feature item loop
+  - title : "Computer Supply"
+    icon : "tf-ion-android-laptop"
+    content : "We buy and supply computers that meet your demands: \n
+ - Keyboard, Mouse,\n - USB, Hard drive. \n "
+
+    # feature item loop
+  - title : "Other"
+    icon : "tf-ion-android-add-circle"
+    content : "Graphic Design.
+Photography.
+Web Development.
+Networking."
+
+   
+
+############################# promo ############################
+promo:
+  enable : true
+  image : "images/about.jpg"
+  title : "About Us"
+  content : "We value our image, in being consistent and building a healthy brand. We believe in adding value in the lives of people that engage with Relevant Technologies. With over 2 years of experience, we thrive to be industry experts to help with all hardware and software related issues. Our customer's opinions and perceptions are what makes us who we are, it is really in our core belief to put people first in our business."
+
+
+############################# About Product #######################
+about_product:
+  enable : false
+  title : "Why Choose Apple Watch"
+  items:
+    # about product item loop
+    - image : "images/showcase/showcase-4.png"
+      title : "Lorem ipsum dolor sit amet."
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+            quas, quo harum deserunt consequatur cumque!"
+      button:
+        enable : false
+        label : "Check Features"
+        link : "#"
+        
+    # about product item loop
+    - image : "images/showcase/showcase-3.png"
+      title : "Lorem ipsum dolor sit amet."
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+            quas, quo harum deserunt consequatur cumque!"
+      button:
+        enable : false
+        label : "Check Features"
+        link : "#"
+
+
+#################################### Products ########################
+products:
+  enable : false
+  title : "Checkout Our All Products"
+
+
+################################## Subscription ###################
+subscription:
+  enable : false
+  bg_image : "images/call-to-action.jpg"
+  title : "Get Product Updates"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  placeholder : "Your Email Address Here"
+
+
+############################## Testimonial ##########################
+testimonial:
+  enable : true
+  title : "Customer Reviews"
+  testimonial_item:
+    # testimonial item loop
+    - name : "Janzito Gooms"
+      designation : "Member of the public"
+      #image : "images/avater.png"
+      content : "Professional. Effocient.Reliable. My laptop was repaired in few days. Friendly technician who gives details that even a young child can understand. Try them, you will not regret !"
+      
+    # testimonial item loop
+    - name : "Konesans L-sqaured"
+      designation : "Student"
+      #image : "images/avater.png"
+      content : "The services was beyond comprehensible expectation and as a client i was treated as an paramount ...furthermore Im fascinated by your sense of magnanimous."
+      
+    # testimonial item loop
+    - name : "Thapelo Nkambule"
+      designation : "Student"
+      #image : "images/avater.png"
+      content : "We want to thank you for your business and that you are committed to delivering the highest quality to us customers."
