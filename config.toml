@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
-baseurl = "http://examplesite.com/"
-title = "Vex | hugo landing page template"
+baseurl = "https://relevant-five.vercel.app/"
+title = "Relevant Technologies"
 theme = "vex"
 # post excert
 summarylength = "20"
