@@ -10,6 +10,10 @@
           <h2>{{ .title | markdownify }}</h2>
         </div>
       </div>
+      <div class="content">
+        
+        <p>{{ .content | markdownify }}</p>
+      </div>
     </div>
     {{ range $index, $element := .items }}
     {{- if ne (mod $index 2) 1 }}

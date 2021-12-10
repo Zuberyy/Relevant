@@ -69,30 +69,35 @@ promo:
   image : "images/about.jpg"
   title : "About Us"
   content : "We value our image, in being consistent and building a healthy brand. We believe in adding value in the lives of people that engage with Relevant Technologies. With over 2 years of experience, we thrive to be industry experts to help with all hardware and software related issues. Our customer's opinions and perceptions are what makes us who we are, it is really in our core belief to put people first in our business."
-
+  
 
 ############################# About Product #######################
 about_product:
-  enable : false
-  title : "Why Choose Apple Watch"
+  enable : true
+  title : "Why Choose Us"
+  content: "We value our image, in being consistent and building a healthy brand. We believe in adding value in the lives of people that engage with Relevant Technologies. With over 2 years of experience, we thrive to be industry experts to help with all hardware and software related issues. Our customer's opinions and perceptions are what makes us who we are, it is really in our core belief to put people first in our business."
   items:
     # about product item loop
-    - image : "images/showcase/showcase-4.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+    - image : "images/profile2.png"
+      title : "Vision"
+      content : "To be an African innovative IT company, globally leading in providing remarkable IT solutions."
       button:
         enable : false
         label : "Check Features"
         link : "#"
         
     # about product item loop
-    - image : "images/showcase/showcase-3.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+    - image : "images/profile1.png"
+      title : "Mission"
+      content : "Translating innovative ideas into good services that creates value to both stakeholders and clients that are potential in changing the world."
+      button:
+        enable : false
+        label : "Check Features"
+        link : "#"
+    # about product item loop
+    - image : "images/profile7.png"
+      title : "Values"
+      content : "Innovative, Integrity,Excellence,Reliability and Relevance."
       button:
         enable : false
         label : "Check Features"

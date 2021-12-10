@@ -73,7 +73,7 @@ promo:
 
 ############################# About Product #######################
 about_product:
-  enable : false
+  enable : true
   title : "Why Choose Apple Watch"
   items:
     # about product item loop
