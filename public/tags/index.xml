@@ -6,10 +6,6 @@
     <description>Recent content in Tags on Relevant Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Relevant Teachnology All Rights Reserved</copyright>
-    
-	<atom:link href="https://relevant-five.vercel.app/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Relevant Teachnology All Rights Reserved</copyright><atom:link href="https://relevant-five.vercel.app/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

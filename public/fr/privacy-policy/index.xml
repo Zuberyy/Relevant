@@ -6,10 +6,6 @@
     <description>Recent content in Terms &amp; Conditions on Relevant Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright>
-    
-	<atom:link href="https://relevant-five.vercel.app/fr/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright><atom:link href="https://relevant-five.vercel.app/fr/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
