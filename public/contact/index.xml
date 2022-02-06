@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on Relevant Technologies</title>
-    <link>https://relevant-sand.vercel.app/contact/</link>
+    <link>hrelevant-zeta.vercel.app/contact/</link>
     <description>Recent content in Contact on Relevant Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Relevant Teachnology All Rights Reserved</copyright><atom:link href="https://relevant-sand.vercel.app/contact/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Relevant Teachnology All Rights Reserved</copyright><atom:link href="hrelevant-zeta.vercel.app/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
