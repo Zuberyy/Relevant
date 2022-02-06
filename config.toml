@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://relevant-five.vercel.app/"
+baseurl = "https://relevant-sand.vercel.app/"
 title = "Relevant Technologies"
 theme = "vex"
 # post excert
