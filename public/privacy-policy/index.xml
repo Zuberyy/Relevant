@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terms &amp; Conditions on Relevant Technologies</title>
-    <link>relevant-zeta.vercel.app/privacy-policy/</link>
+    <link>/privacy-policy/</link>
     <description>Recent content in Terms &amp; Conditions on Relevant Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Relevant Teachnology All Rights Reserved</copyright><atom:link href="relevant-zeta.vercel.app/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Relevant Teachnology All Rights Reserved</copyright><atom:link href="/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "relevant-zeta.vercel.app"
+baseurl = "/"
 title = "Relevant Technologies"
 theme = "vex"
 # post excert
